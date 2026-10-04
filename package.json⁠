@@ -1,0 +1,18 @@
+{
+  "name": "hype-store-roma",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "axios": "^1.6.5",
+    "lucide-react": "^0.309.0",
+    "framer-motion": "^11.0.3",
+    "sonner": "^1.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
